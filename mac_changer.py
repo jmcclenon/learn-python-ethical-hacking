@@ -1,5 +1,6 @@
 #/usr/bin/env python
 # by John McClenon, Jr
+# With a little help from my friends
 
 import subprocess
 
